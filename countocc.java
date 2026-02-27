@@ -3,7 +3,7 @@ public class countocc {
     public static void main(String[] args) {
         Scanner in= new Scanner(System.in);
         int n=in.nextInt();
-        System.out.print("Enter Digit");
+        System.out.print("Enter Digit ");
         int digit=in.nextInt();
         int count=0;
         while(n>0){
