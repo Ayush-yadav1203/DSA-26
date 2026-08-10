@@ -1,7 +1,7 @@
 package nqueens;
 import java.util.*;
 
-public class nqueens {
+public class queens {
 
     public static void main(String[] args) {
 
